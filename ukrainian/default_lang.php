@@ -50,7 +50,7 @@ $lang["no"] = "Ні";
 $lang["add_more"] = "Додати ще";
 $lang["crop"] = "Обрізати";
 $lang["income"] = "Дохід";
-$lang["income_vs_expenses"] = "Дохід проти Витрат";
+$lang["income_vs_expenses"] = "Доходи та Витрати";
 
 $lang["title"] = "Заголовок";
 $lang["reset"] = "Скинути";
